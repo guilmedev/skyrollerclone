@@ -9,6 +9,8 @@ Tools:
 
 [Playable Link](https://guilmegouveia.itch.io/skateroller-clone) 
 
+[GamePlay Video](https://lnkd.in/d-dWWF5) 
+
 
 ![](SkateRollerClone_screenshot1.png)
 ![](SkateRollerClone_screenshot2.png)
